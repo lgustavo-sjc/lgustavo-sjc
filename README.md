@@ -1,6 +1,6 @@
 ## 🚀 Linguagens e Tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,linux,docker,terraform,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,linux,docker,terraform)](https://skillicons.dev)
 
 ---
 
@@ -13,17 +13,16 @@
 
 ## 🌱 Atualmente fazendo Labs
 
-- AWS / Multi-AZ
-- Terraform
-- Segurança com Palo Alto
-- Observabilidade com Zabbix
+- Descomplicando EKS (Linux Tips)
+- Agentes de IA atuando como analistas DevOps (IA)
 
 ---
 
 ## 🎯 Certificações
 
 - ✅ AWS Cloud Practitioner  
-- ✅ AWS Solutions Architect  
+- ✅ AWS Solutions Architect
+- ✅ AWS Certified AI Practitioner
 - ✅ AZ-900  
 
 ---
