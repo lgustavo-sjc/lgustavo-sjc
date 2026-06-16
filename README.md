@@ -20,12 +20,6 @@
 
 ## 🎯 Certificações
 
-- ✅ AWS Cloud Practitioner  
-- ✅ AWS Solutions Architect
-- ✅ AWS AI Practitioner
-- ✅ AZ-900  
-
-
 - <img src="https://skillicons.dev/icons?i=aws" width="25"/> AWS Cloud Practitioner – concluída ✅  
 - <img src="https://skillicons.dev/icons?i=aws" width="25"/> AWS Solutions Architect – Associate – concluída ✅
 - <img src="https://skillicons.dev/icons?i=aws" width="25"/> AWS AI Practitioner – concluída ✅
