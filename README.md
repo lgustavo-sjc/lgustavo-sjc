@@ -1,26 +1,34 @@
-## Hi there 👋
+## 🚀 Linguagens e Tecnologias
 
-<!--
-**lgustavo-sjc/lgustavo-sjc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,linux,docker,terraform,python)](https://skillicons.dev)
 
-Here are some ideas to get you started:
+---
 
-Oi! Eu sou Luis Gustavo (LG)👋
+## 🔗 Contato
 
-Sou especialista em Infra, DevOps e Cloud com mais de 26 anos de experiência em TI e mais de 10 anos atuando com soluções AWS. Tenho expertise em ambientes híbridos, automação com Terraform e CI/CD com GitHub Actions. Busco sempre entregar valor com segurança, escalabilidade e inovação.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)]()
 
-🤖Linguagens e Tecnologias
+---
 
-AWS AZURE Linux Terraform Docker GitHub
-  
-🌱 Atualmente fazendo Labs:
-Descomplicando EKS (Linux Tips)
-Agentes atuando como analista DevOps (IA)
+## 🌱 Atualmente fazendo Labs
 
-🎯 Focado nas certificações:
-AWS Cloud Practitioner – concluída ✅
-AWSAWS Solutions Architect – Associate – concluída ✅
-ASaZURE Microsoft Azure- AZ 900 ** – ✅
+- AWS / Multi-AZ
+- Terraform
+- Segurança com Palo Alto
+- Observabilidade com Zabbix
 
-💬 Me pergunte sobre:
-AWS, Terraform, CI/CD, Automação, Segurança, Cloud híbrida, Docker, GitHub Actions
+---
+
+## 🎯 Certificações
+
+- ✅ AWS Cloud Practitioner  
+- ✅ AWS Solutions Architect  
+- ✅ AZ-900  
+
+---
+
+## 💬 Me pergunte sobre
+
+AWS, Terraform, Cloud, Segurança, Docker, CI/CD
+``
