@@ -14,7 +14,7 @@
 ## 🌱 Atualmente fazendo Labs
 
 - Descomplicando EKS (Linux Tips)
-- Agentes de IA atuando como analistas DevOps (IA)
+- Agentes de IA atuando como analistas DevOps
 
 ---
 
@@ -22,8 +22,15 @@
 
 - ✅ AWS Cloud Practitioner  
 - ✅ AWS Solutions Architect
-- ✅ AWS Certified AI Practitioner
+- ✅ AWS AI Practitioner
 - ✅ AZ-900  
+
+
+- <img src="https://skillicons.dev/icons?i=aws" width="25"/> AWS Cloud Practitioner – concluída ✅  
+- <img src="https://skillicons.dev/icons?i=aws" width="25"/> AWS Solutions Architect – Associate – concluída ✅
+- <img src="https://skillicons.dev/icons?i=aws" width="25"/> AWS AI Practitioner – concluída ✅
+- <img src="https://skillicons.dev/icons?i=azure" width="25"/> Microsoft Azure AZ-900 – concluída ✅  
+
 
 ---
 
