@@ -1,6 +1,6 @@
 ## 🚀 Linguagens e Tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,linux,docker,microsoft\paloalto,terraform)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,linux,docker,microsoft,paloalto,terraform)](https://skillicons.dev)
 
 ---
 
