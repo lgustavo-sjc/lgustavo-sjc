@@ -11,9 +11,11 @@
 
 ---
 
-## 🌱 Atualmente fazendo Labs
+## 🌱 Estudos
 
 - Descomplicando EKS (Linux Tips)
+- Certificação KCNA
+- GitHub Actions
 - Agentes de IA atuando como analistas DevOps
 
 ---
