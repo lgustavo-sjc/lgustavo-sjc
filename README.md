@@ -2,6 +2,13 @@
 
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,linux,docker,microsoft,paloalto,terraform)](https://skillicons.dev)
 
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,azure,linux,docker,windows,terraform" alt="My Skills" />
+  </a>
+  <img src="URL_DO_ICONE" height="48" alt="Palo Alto Networks" />
+</p>
+
 ---
 
 ## 🔗 Contato
