@@ -33,5 +33,5 @@
 
 ## 💬 Me pergunte sobre
 
-AWS, Terraform, Cloud, Segurança, Docker, CI/CD
+AWS, Terraform, Cloud, Segurança, Docker, Palo Alto, CI/CD
 ``
