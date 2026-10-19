@@ -20,7 +20,7 @@
 
 ## 🎯 Certificações
 
-- <img src="https://skillicons.dev/icons?i=aws" width="25"/> HashiCorp Certified: Terraform Associate (004) - HashiCorp, 2026 ✅
+- <img src="https://skillicons.dev/icons?i=terraform" width="25"/> HashiCorp Certified: Terraform Associate (004) - HashiCorp, 2026 ✅
 - <img src="https://skillicons.dev/icons?i=aws" width="25"/> AWS Solutions Architect – Associate ✅
 - <img src="https://skillicons.dev/icons?i=aws" width="25"/> AWS Cloud Practitioner ✅  
 - <img src="https://skillicons.dev/icons?i=aws" width="25"/> AWS AI Practitioner ✅
